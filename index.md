@@ -42,45 +42,35 @@ Facilities Project Manager `2018 – Present`
 -	  Construction Manager related duties.
 
 
-__VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
+__OAC SERVICES INC,__ Seattle, WA
 
-Lead Program Manager `2015-2017`
-
-***Vetiva is a leading provider of capital market advisory and capital raising services in Nigeria with a pan African focus having worked with a wide range of clients on groundbreaking transactions across domestic and global platforms. Their capital market/capital raising deals include public and private transactions for government and corporate clients across the following asset classes/securities: Equity; Debt; Quasi-Equity.***
+Project Engineer `2017-2018`
 
 
 
+- 	Review of General Contractor’s as-built documents
+- 	Reviewing and verifying of monthly consultants and contractor progress payments.
+- 	Review, Confirm, and assist with preparation of project master schedule.
+- 	Facilitate owner integration prior to and during occupancy phase of the project
+- 	Develop and maintain project progress photos and other project documents.
+- 
+- 
 
-- Created new digital publishing revenue stream in excess of 2.5 million Naira/ $8,000 USD for 5 years and support fees after 5 years by authoring reports using Microsoft Visual Studio, Crystal Reports and RDL that were packaged, distributed and tailored to the exact specifications of stockbrokers
-- Gathered, refined and validated complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
-- Translated key data insights into digestible formats to be leveraged by strategic decision makers
-- Created Report on Key Business Metrics and KPIs for business monitoring
-- Liaised between business and developers to ensure a mutual understanding of processes models
-- Facilitated communication and gained commitment between business units to align solutions with business strategies
-- Provided input into developing and modifying systems to meet client needs and develop business specifications to support the- modifications 
-- Engaged and built relationships across a range of stakeholder groups and technical project teams
-- Defined SLA for data availability
-- Provided support and lead requirements for data governance
+__SEATTLE PUBLIC SCHOOLS__, Seattle, WA
 
-
-__1SOURCE TECHNOLOGY PARTNERS__, Lagos, Nigeria
-
-Business Intelligence Analyst `2013-2015`
-
-***1source was founded in 2008 to serve as a single point of contact for the IT needs of businesses across West Africa.   
-At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full-service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
-`
+Project / Maintenance Management Specialist `2011-2017`
 
 
 
-- Migrated all external stakeholders'(digitalized the education system in Nigeria and Ghana) raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
-- Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013 which was used by external stakeholders' sales team and top management for decision making
-- Engaged client to gather software requirements and ensure alignment with development teams
--	Supported on Database related issues
--	Interviewed end users to determine requirements for data, reports, analyses, metadata, training, service levels, data quality, and performance 
--	Worked with architects to translate requirements into technical specifications
--	Facilitated monthly meetings with clients to document requirements and explore potential solutions
--	Identified and reconcile errors in client data to ensure accurate business requirements
+
+- 	Assist in planning and scheduling project timeline, implement and manage project changes.
+- 	Present reports defining project progress, problems and solutions.
+- 	Identify process gaps and process implementation planning.
+-		Support and further build change management processes.
+-		Troubleshoot electrical, mechanical, and hydraulic system issues, ensuring proper maintenance.
+-		Coordinate management of available resources, ensuring all systems work efficiently and effectively.
+-		Contribute to creation of schedules, successfully structuring project work breakdown and assisting colleagues to ensure project completion
+-		Identified and reported any performance variances, overseeing assembly fittings, maintenance, adjustment, and operational testing of mechanical components
 
 
 
