@@ -31,14 +31,15 @@ Power Tool & Equipment Maintenance & Repair ● Network Conflicts ● SharePoint
 
 ### EXPERIENCES
 
-__Lynnwood WA__
+__THE BOEING COMPANY, Auburn, WA__
 
-Motherhood `2018-2020`
+Facilities Project Manager `2018 – Present`
 
 
-- Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my 2 kids.
-- Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics and Self-taught Python/Python Data Analytics in Progress
-- Tailoring. Source for materials, create designs and sew outfits from start to finish for clients
+- 	Managing the entire PLC from initiation to closure.
+- 	Project Performance tracking.
+- 	Business Partners relationship development.
+-	  Construction Manager related duties.
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
