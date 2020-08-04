@@ -10,14 +10,13 @@ title: Michael Egejuru's
 | <a href="https://www.linkedin.com/in/michael-egejuru"> MyLinkedIn Page</a>
 </div>
 
-<center>                                                              DATA DRIVEN PROGRAM MANAGER </center>
+<center>                                                              PROJECT MANAGER </center>
 
 <center>              _________________________________________________________ </center>
 
 
 
-Program and project management leader with technical depth and passion for data science, analysis, and visualization. Fluent in  process decomposition, redesign and optimization, especially when faced with tight deadlines and resource constraints. History of overcoming obstacles and providing data-driven decision support to help senior executives run smooth operations. Live for the opportunity to pursue excellence and bring innovations to market that impact lives and empower organizations to achieve their goals.
-
+Versatile project manager with 8+ years’ experience in all aspects of planning, executing, and closing projects across various industries. Proven record of accomplishment of consistently driving process improvements and project objectives, while managing resources and schedules. Exceptional technology skills combined with proven ability to lead project strategy, manage personnel, deliver reports, troubleshoot mechanical issues, and successfully implement and oversee complex solutions. Outstanding strategist distinguished for proven leadership and team-building skills and excellent conflict resolution abilities. Expert at implementing processes that improve efficiency, with keen ability to build relationships. Demonstrated management skills that enhance productivity and drive sustained organizational performance.
 
 ## CERTIFICATIONS
 
