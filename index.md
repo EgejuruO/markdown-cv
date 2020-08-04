@@ -39,8 +39,8 @@ Facilities Project Manager `2018 – Present`
 - 	Managing the entire PLC from initiation to closure.
 - 	Project Performance tracking.
 - 	Business Partners relationship development.
--	  Construction Manager related duties.
-
+-	 Construction Manager related duties
+-	
 
 __OAC SERVICES INC,__ Seattle, WA
 
