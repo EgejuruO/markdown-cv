@@ -25,19 +25,9 @@ Versatile project manager with 8+ years’ experience in all aspects of planning
 
 ### CORE COMPETENCIES
 
-Microsoft Power BI 
-| Business  Intelligence | Data Analysis | Data Visualization 
-| Business Process Re-engineering | Project Management 
-| SQL Querying | SQL Server Reporting Services (SSRS) 
-| Data Warehousing | Data Mining | Data Integration 
-| Extract, Transform and Load (ETL) | Problem Solving/Attention to Detail 
-| Tableau | QlikView | OLAP | SQL Server Integration Services (SSIS) 
-| SharePoint | MSOffice Suite | Crystal Reporting Tool 
-| Presentation Skills| Microsoft Visio | Team work 
-| Honesty | Reliable | Can-do-attitude | Goal-oriented 
-| Execution-Oriented | Excellent Collaboration 
-| SQL Server Analysis Services Tabular
-| Python | Python Data Analytics
+Strategic & Tactical Planning ● Project Management & Development ● Project Management Methodology Data Analysis ● Communication ● Risk Analysis ● Information Technology ● Refrigeration Systems
+	HAZMAT Handling & Disposal Boiler Maintenance & Operation ● Troubleshooting ● Leadership	
+Power Tool & Equipment Maintenance & Repair ● Network Conflicts ● SharePoint ● MSOffice Suite
 
 ### EXPERIENCES
 
