@@ -6,7 +6,7 @@ title: Michael Egejuru's
 14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-701-4740 | egejurumichael@gmail.com 
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/michael-egejuru"> https://www.linkedin.com/in/michael-egejuru </a>
+                              <a href="https://www.linkedin.com/in/michael-egejuru"> https://www.linkedin.com/in/michael-egejuru </a>
 | <a href="https://www.linkedin.com/in/michael-egejuru"> MyLinkedIn Page</a>
 </div>
 
@@ -15,7 +15,7 @@ title: Michael Egejuru's
 
 
 
-<center>                                                               ____________________________________________________________________________ </center> 
+<center> ____________________________________________________________________________ </center> 
 
 
 
