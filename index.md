@@ -5,10 +5,10 @@ title: Michael Egejuru's
 # <center>	MICHAEL EGEJURU </center>
 14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-701-4740 | egejurumichael@gmail.com 
 
-<center> <div id="webaddress">
-<a href="https://www.linkedin.com/in/michael-egejuru"> https://www.linkedin.com/in/michael-egejuru </a> 
-| <a href="https://www.linkedin.com/in/michael-egejuru"> MyLinkedIn Page</a>
-</div> </center>
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/michael-egejuru"> <center>https://www.linkedin.com/in/michael-egejuru </a> 
+| <a href="https://www.linkedin.com/in/michael-egejuru"> MyLinkedIn Page</a></center>
+</div>
 
 __<center> PROJECT MANAGER </center>__
 
