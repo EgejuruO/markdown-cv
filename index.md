@@ -39,10 +39,10 @@ __THE BOEING COMPANY, Auburn, WA__
 Facilities Project Manager `2018 – Present`
 
 
-- Managing the entire PLC from initiation to closure.
-- Project Performance tracking.
-- Business Partners relationship development.
-- Construction Manager related duties
+-  Managing the entire PLC from initiation to closure.
+-  Project Performance tracking.
+-  Business Partners relationship development.
+-  Construction Manager related duties.
 
 __OAC SERVICES INC,__ Seattle, WA
 
@@ -50,11 +50,11 @@ Project Engineer `2017-2018`
 
 
 
-- Review of General Contractor’s as-built documents
-- Reviewing and verifying of monthly consultants and contractor progress payments.
-- Review, Confirm, and assist with preparation of project master schedule.
-- Facilitate owner integration prior to and during occupancy phase of the project
-- Develop and maintain project progress photos and other project documents.
+-  Review of General Contractor’s as-built documents.
+-  Reviewing and verifying of monthly consultants and contractor progress payments.
+-  Review, Confirm, and assist with preparation of project master schedule.
+-  Facilitate owner integration prior to and during occupancy phase of the project.
+-  Develop and maintain project progress photos and other project documents.
 
 __SEATTLE PUBLIC SCHOOLS__, Seattle, WA
 
@@ -63,14 +63,14 @@ Project / Maintenance Management Specialist `2011-2017`
 
 
 
-- Assist in planning and scheduling project timeline, implement and manage project changes.
-- Present reports defining project progress, problems and solutions.
-- Identify process gaps and process implementation planning.
-- Support and further build change management processes.
-- Troubleshoot electrical, mechanical, and hydraulic system issues, ensuring proper maintenance.
-- Coordinate management of available resources, ensuring all systems work efficiently and effectively.
-- Contribute to creation of schedules, successfully structuring project work breakdown and assisting colleagues to ensure project completion
-- Identified and reported any performance variances, overseeing assembly fittings, maintenance, adjustment, and operational testing of mechanical components
+-  Assist in planning and scheduling project timeline, implement and manage project changes.
+-  Present reports defining project progress, problems and solutions.
+-  Identify process gaps and process implementation planning.
+-  Support and further build change management processes.
+-  Troubleshoot electrical, mechanical, and hydraulic system issues, ensuring proper maintenance.
+-  Coordinate management of available resources, ensuring all systems work efficiently and effectively.
+-  Contribute to creation of schedules, successfully structuring project work breakdown and assisting colleagues to ensure project completion.
+-  Identified and reported any performance variances, overseeing assembly fittings, maintenance, adjustment, and operational testing of mechanical components.
 
 
 
@@ -78,10 +78,10 @@ Project / Maintenance Management Specialist `2011-2017`
 
 _Key Accomplishments:_
 
-- Contribute to creation of schedules, successfully structuring project work breakdown and assisting colleagues to ensure project completion. 
-- Troubleshoot electrical, mechanical, and hydraulic system issues, ensuring proper maintenance.
-- Coordinate management of available resources, ensuring all systems work efficiently and effectively. 
-- Identified and reported any performance variances, overseeing assembly fittings, maintenance, adjustment, and operational testing of mechanical components.
+- ● Contribute to creation of schedules, successfully structuring project work breakdown and assisting colleagues to ensure project completion. 
+- ● Troubleshoot electrical, mechanical, and hydraulic system issues, ensuring proper maintenance.
+- ● Coordinate management of available resources, ensuring all systems work efficiently and effectively. 
+- ● Identified and reported any performance variances, overseeing assembly fittings, maintenance, adjustment, and operational testing of mechanical components.
 
 
 
@@ -90,12 +90,12 @@ __NIGERIAN AVIATION HANDLING COMPANY__, Lagos, Nigeria
 Special Projects Unit Project Manager, `2008 – 2010`
 
 
-- Led Special Project Unit in identifying network conflicts, recommending solutions to ensure all issues are resolved quickly.
-- Obtain, review and compile project documentation.
-- Monitoring of job progress according to schedules and tasks.
-- Resolved numerous project issues including staffing shortages, tactical matters, scope creep and divergent business and user needs.
-- Assist in Project Management cycles, including quantitative and qualitative analysis, forecast trends, all to identify risks and issues and work toward innovation and operational excellence.
-- Execute project management skill sets and methodologies to address long term opportunities to impact and improve the business. 
+-  Led Special Project Unit in identifying network conflicts, recommending solutions to ensure all issues are resolved quickly.
+-  Obtain, review and compile project documentation.
+-  Monitoring of job progress according to schedules and tasks.
+-  Resolved numerous project issues including staffing shortages, tactical matters, scope creep and divergent business and user needs.
+-  Assist in Project Management cycles, including quantitative and qualitative analysis, forecast trends, all to identify risks and issues and work toward innovation and operational excellence.
+-  Execute project management skill sets and methodologies to address long term opportunities to impact and improve the business. 
 
 
 
@@ -105,19 +105,19 @@ __RABONA CONSTRUCTION COMPANY__, Lagos, Nigeria
 Project Coordinator/Warehouseman, `2006 – 2008`
 
 
-- Responsible for management, distribution & storage of supplier invoice and project records.
-- Site preparation and liaising with other construction professionals such as architects, engineers, and technical staffs before construction work starts. 
-- Manage the day to day working, utilization, implementation and technical consultants engaged on client assignments.
-- Confer with engineers, architects and other experts to monitor construction progress including worker productivity and compliance with building and safety codes.
-- Perform inventory control, maintaining weekly logs and documenting potential contract changes. 
+-  Responsible for management, distribution & storage of supplier invoice and project records.
+-  Site preparation and liaising with other construction professionals such as architects, engineers, and technical staffs before construction work starts. 
+-  Manage the day to day working, utilization, implementation and technical consultants engaged on client assignments.
+-  Confer with engineers, architects and other experts to monitor construction progress including worker productivity and compliance with building and safety codes.
+-  Perform inventory control, maintaining weekly logs and documenting potential contract changes.
 
 
 _Key Accomplishments:_
 
-- Coordinated state construction projects that successfully provided accessible drinking water to rural areas, constructing drainage systems to decrease impacts of flooding in communities.
-- Prepared, developed, and coordinated project stages and schedules to efficiently meet project and program requirements. Ensured integration and configuration control of all plans and schedules.
-- Implemented document control process, handled project correspondence while also meeting administration & administrative support.
-- Resolved assigned critical path issues, supporting risk analysis and offering process improvements.
+- ● Coordinated state construction projects that successfully provided accessible drinking water to rural areas, constructing drainage systems to decrease impacts of flooding in communities.
+- ● Prepared, developed, and coordinated project stages and schedules to efficiently meet project and program requirements. Ensured integration and configuration control of all plans and schedules.
+- ● Implemented document control process, handled project correspondence while also meeting administration & administrative support.
+- ● Resolved assigned critical path issues, supporting risk analysis and offering process improvements.
 
 ## EDUCATION
 
