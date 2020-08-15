@@ -10,7 +10,7 @@ title: Michael Egejuru's
 | <a href="https://www.linkedin.com/in/michael-egejuru"> MyLinkedIn Page</a>
 </div> </center>
 
-<center>                                                               PROJECT MANAGER </center>
+__<center>                                                               PROJECT MANAGER </center>__
 
 
 
