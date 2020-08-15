@@ -2,7 +2,7 @@
 layout: cv
 title: Michael Egejuru's
 ---
-# MICHAEL EGEJURU
+# 	MICHAEL EGEJURU
 14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-701-4740 | egejurumichael@gmail.com 
 
 <div id="webaddress">
@@ -10,7 +10,7 @@ title: Michael Egejuru's
 | <a href="https://www.linkedin.com/in/michael-egejuru"> MyLinkedIn Page</a>
 </div>
 
-<center>                                                              PROJECT MANAGER </center>
+## <center>                                                              PROJECT MANAGER </center>
 
 <center>              _________________________________________________________ </center>
 
