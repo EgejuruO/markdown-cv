@@ -14,7 +14,7 @@ title: Michael Egejuru's
 
 
 
-__PROJECT MANAGER__
+__<center> PROJECT MANAGER </center>__
 
 
 
