@@ -2,7 +2,7 @@
 layout: cv
 title: Michael Egejuru's
 ---
-# <center> MICHAEL EGEJURU </center>
+# MICHAEL EGEJURU
 14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-701-4740 | egejurumichael@gmail.com 
 
 <div id="webaddress">
