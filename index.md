@@ -12,7 +12,7 @@ title: Michael Egejuru's
 
 __<center> PROJECT MANAGER </center>__
 
-__<center>              ____________________________________________________ </center>__
+__<center>              _________________________________________________ </center>__
 
 
 
