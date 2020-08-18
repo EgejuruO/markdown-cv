@@ -26,8 +26,9 @@ Versatile project manager with 8+ years’ experience in all aspects of planning
 
 ## CERTIFICATIONS
 
-- MCDBA (Microsoft Certified Database Administrator)
-- MCP (Microsoft Certified Professional)
+- PMP (In View)
+- Graduate Certificate in Project Management
+- Certificate of Achievement in Project Management
 
 ### CORE COMPETENCIES
 
