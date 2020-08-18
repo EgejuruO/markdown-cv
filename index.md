@@ -30,13 +30,13 @@ Versatile project manager with 8+ years’ experience in all aspects of planning
 - Graduate Certificate in Project Management
 - Certificate of Achievement in Project Management
 
-### CORE COMPETENCIES
+## CORE COMPETENCIES
 
 Strategic & Tactical Planning ● Project Management & Development ● Project Management Methodology Data Analysis ● Communication ● Risk Analysis ● Information Technology ● Refrigeration Systems
 	HAZMAT Handling & Disposal Boiler Maintenance & Operation ● Troubleshooting ● Leadership	
 Power Tool & Equipment Maintenance & Repair ● Network Conflicts ● SharePoint ● MSOffice Suite
 
-### EXPERIENCES
+## EXPERIENCES
 
 __THE BOEING COMPANY, Auburn, WA__
 
