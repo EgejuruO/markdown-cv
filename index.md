@@ -22,7 +22,7 @@ __<center>              _________________________________________________ </cent
 
 
 
-Versatile project manager with 8+ years’ experience in all aspects of planning, executing, and closing projects across various industries. Proven record of accomplishment of consistently driving process improvements and project objectives, while managing resources and schedules. Exceptional technology skills combined with proven ability to lead project strategy, manage personnel, deliver reports, troubleshoot mechanical issues, and successfully implement and oversee complex solutions. Outstanding strategist distinguished for proven leadership and team-building skills and excellent conflict resolution abilities. Expert at implementing processes that improve efficiency, with keen ability to build relationships. Demonstrated management skills that enhance productivity and drive sustained organizational performance.
+Versatile project manager with 10+ years’ experience in all aspects of planning, executing, and closing projects across various industries. Proven record of accomplishment of consistently driving process improvements and project objectives, while managing resources and schedules. Exceptional technology skills combined with proven ability to lead project strategy, manage personnel, deliver reports, troubleshoot mechanical issues, and successfully implement and oversee complex solutions. Outstanding strategist distinguished for proven leadership and team-building skills and excellent conflict resolution abilities. Expert at implementing processes that improve efficiency, with keen ability to build relationships. Demonstrated management skills that enhance productivity and drive sustained organizational performance.
 
 ## CERTIFICATIONS
 
